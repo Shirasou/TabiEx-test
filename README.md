@@ -25,7 +25,8 @@
 : https://drive.google.com/file/d/1IC7GJb27riU1GWz9xWowaziseWgonUtV/view?usp=sharing
 - [UIFlow（会員側）]
 : https://drive.google.com/file/d/17Z36Js3LCwcklEI-gHJCTtz9omL22-vZ/view?usp=sharing
-- [ER図]:
+- [ER図]
+: https://drive.google.com/file/d/1sa2PXyTmYNBPBIcOvLF0CDp5TLTWAgbm/view?usp=sharing
 - [テーブル定義書]:
 - [アプリケーション詳細設計]:
 
