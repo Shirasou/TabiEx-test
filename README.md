@@ -21,11 +21,11 @@
 観光地の従業員：自分のお店のPR
 
 ## 設計書
-UIFlow（管理者側）は<a class="https://drive.google.com/file/d/1IC7GJb27riU1GWz9xWowaziseWgonUtV/view?usp=sharing">こちら</a>
-UIFlow（会員側）は<a class="https://drive.google.com/file/d/17Z36Js3LCwcklEI-gHJCTtz9omL22-vZ/view?usp=sharing">こちら</a>
-ER図は<a class="">こちら</a>
-テーブル定義書は<a class="">こちら</a>
-アプリケーション詳細設計<a class="">こちら</a>
+- [UIFlow（管理者側）]: https://drive.google.com/file/d/1IC7GJb27riU1GWz9xWowaziseWgonUtV/view?usp=sharing
+- [UIFlow（会員側）]: https://drive.google.com/file/d/17Z36Js3LCwcklEI-gHJCTtz9omL22-vZ/view?usp=sharing
+- [ER図]:
+- [テーブル定義書]:
+- [アプリケーション詳細設計]:
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1B3zD2ux-bJ7oBemeWrUkbO8mJuq4B772Yke5vHTkQtU/edit?usp=sharing
