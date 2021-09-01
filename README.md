@@ -21,8 +21,10 @@
 観光地の従業員：自分のお店のPR
 
 ## 設計書
-- [UIFlow（管理者側）]: https://drive.google.com/file/d/1IC7GJb27riU1GWz9xWowaziseWgonUtV/view?usp=sharing
-- [UIFlow（会員側）]: https://drive.google.com/file/d/17Z36Js3LCwcklEI-gHJCTtz9omL22-vZ/view?usp=sharing
+- [UIFlow（管理者側）]
+: https://drive.google.com/file/d/1IC7GJb27riU1GWz9xWowaziseWgonUtV/view?usp=sharing
+- [UIFlow（会員側）]
+: https://drive.google.com/file/d/17Z36Js3LCwcklEI-gHJCTtz9omL22-vZ/view?usp=sharing
 - [ER図]:
 - [テーブル定義書]:
 - [アプリケーション詳細設計]:
