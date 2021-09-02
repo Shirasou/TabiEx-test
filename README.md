@@ -27,7 +27,8 @@
 : https://drive.google.com/file/d/17Z36Js3LCwcklEI-gHJCTtz9omL22-vZ/view?usp=sharing
 - [ER図]
 : https://drive.google.com/file/d/1sa2PXyTmYNBPBIcOvLF0CDp5TLTWAgbm/view?usp=sharing
-- [テーブル定義書]:
+- [テーブル定義書]
+:　https://docs.google.com/spreadsheets/d/1qNvbzRlS9z0fxaj_OT-Zbt5FkJA4ROxr2SgynQ1PwIs/edit?usp=sharing
 - [アプリケーション詳細設計]:
 
 ## チャレンジ要素一覧
