@@ -12,13 +12,13 @@
 コロナ禍で旅行しづらい環境にある今、コロナ前に訪れたお店が今後・現在も営業中かわからない今、写真という形で残すだけでなく、「このようなお店が過去にはあった」などコロナ前に訪れていない人のためにインターネットという場で共有し、ともに今後乗り越えていくコロナの悲劇を旅行の思い出として形に残したいと思ったため。
 
 ### ターゲットユーザ
-年齢：20代〜30代（今後の旅行プランを考えている人）
-ユーザー：旅行者・観光地の従業員
+- 年齢：20代〜30代（今後の旅行プランを考えている人）
+- ユーザー：旅行者・観光地の従業員
 
 
 ### 主な利用シーン
-旅行者：旅行体験の共有
-観光地の従業員：自分のお店のPR
+- 旅行者：旅行体験の共有
+- 観光地の従業員：自分のお店のPR
 
 ## 設計書
 - [UIFlow（管理者側）]
@@ -28,8 +28,9 @@
 - [ER図]
 : https://drive.google.com/file/d/1sa2PXyTmYNBPBIcOvLF0CDp5TLTWAgbm/view?usp=sharing
 - [テーブル定義書]
-:　https://docs.google.com/spreadsheets/d/1qNvbzRlS9z0fxaj_OT-Zbt5FkJA4ROxr2SgynQ1PwIs/edit?usp=sharing
-- [アプリケーション詳細設計]:
+: https://docs.google.com/spreadsheets/d/1qNvbzRlS9z0fxaj_OT-Zbt5FkJA4ROxr2SgynQ1PwIs/edit?usp=sharing
+- [アプリケーション詳細設計]
+: https://docs.google.com/spreadsheets/d/18ODM7MitaOiylUmME3hMdC0s3KWyIrkSyuwWxa62_6w/edit?usp=sharing
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1B3zD2ux-bJ7oBemeWrUkbO8mJuq4B772Yke5vHTkQtU/edit?usp=sharing
